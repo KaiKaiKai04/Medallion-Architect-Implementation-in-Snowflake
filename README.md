@@ -1,0 +1,1 @@
+# Medallion-Architect-Implementation-in-Snowflake
